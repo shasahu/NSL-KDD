@@ -56,9 +56,9 @@ The feature types in this data set can be broken down into 4 types:
 
 # Models Tried and Achieved accuracy and recall on test data
 
-Multinomial Naive Bayes--------------------Accuracy = 74.45---------Recall = (0.55)
-Logistic Regression (cross-entropy loss)---Accuracy = 74.5
-Bernoulli Naive Bayes----------------------Accuracy = 76.7
-Support Vector Classifier------------------Accuracy = 
-Random Forest Classifier
-Deep Learning model
+Multinomial Naive Bayes--------------------Accuracy = 75.92---------Recall = u2r(0.49) = r2l(0.53)
+Logistic Regression (cross-entropy loss)---Accuracy = 75.4----------Recall = u2r(0.25) = r2l(0.20)
+Bernoulli Naive Bayes----------------------Accuracy = 77.37---------Recall = u2r(0.48) = r2l(0.55)
+Support Vector Classifier------------------Accuracy = 74.49---------Recall = u2r(0.16) = r2l(0.21)
+Random Forest Classifier-------------------Accuracy = 73.69---------Recall = u2r(0.10) = r2l(0.11)
+Deep Learning model------------------------Accuracy = 73.57---------Recall = u2r(0.15) = r2l(0.12)
